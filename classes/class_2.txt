@@ -1,0 +1,15 @@
+Burrito
+
+isEaten (boolean)
+hasRice (boolean)
+hasBeans (boolean)
+meatType (string)
+fillings (array)
+scoopsOfGuac (integer)
+
+addRice (updates hasRice attribute)
+addBeans (updates hasBeans attribute)
+chooseMeat (updates meatType attribute)
+pickFillings (updates fillings attribute)
+spendExtraOnGuac (updates scoopsOfGuac attribute)
+eatBurrito (updates isEaten attribute)
