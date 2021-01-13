@@ -1,0 +1,12 @@
+Firecracker Roll
+
+wrapStyle: "soy-paper"
+hasRice: true
+pieces: 8
+fishTypes: ["eel", "tuna", "albacore"]
+sauce: "spicy mayo"
+
+chooseWrap (wrapStyle = "seaweed")
+rollSushi (hasRice = false) (remove eel from array, fishTypes = ["tuna", "albacore"] )
+addSauce (sauce = "eel sauce")
+cutSushi (pieces = 12)
