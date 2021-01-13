@@ -1,0 +1,9 @@
+var food = "pie"
+var is_delicious = true
+var food = "raisins"
+var num2 = 2
+var num7 = 7
+var quotient = num7 / num2
+var songs = ["Starman", "Space Oddity", "Life On Mars?"]
+removeFirstSong = songs.shift()
+charLengthOfFood = food.length
