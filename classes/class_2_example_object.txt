@@ -1,0 +1,15 @@
+Sarah's Burrito
+
+isEaten: false
+hasRice: false
+hasBeans: false
+meatType: "none"
+fillings: []
+scoopsOfGuac: 0
+
+addRice (hasRice = true)
+addBeans (hasBeans = true)
+chooseMeat (meatType = "steak")
+pickFillings (fillings = ["cheese", "lettuce", "tomatoes"])
+spendExtraOnGuac (scoopsOfGuac = 2)
+eatBurrito (isEaten = true)
