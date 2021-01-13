@@ -1,0 +1,12 @@
+SushiRoll
+
+wrapStyle (string)
+hasRice (boolean)
+pieces (integer)
+fishTypes (array)
+sauce (string)
+
+chooseWrap (Changes wrapStyle attribute)
+rollSushi (Modifies hasRice and fishTypes attribute)
+addSauce (Changes sauce attribute)
+cutSushi (Updates pieces amount attribute)
