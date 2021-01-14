@@ -1,5 +1,5 @@
 var food = "pie"
-var is_delicious = true
+var isDelicious = true
 var food = "raisins"
 var num2 = 2
 var num7 = 7
